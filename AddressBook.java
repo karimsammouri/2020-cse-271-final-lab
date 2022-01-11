@@ -12,7 +12,6 @@ import java.util.Scanner;
  * 
  * @author Karim R. Sammouri
  * Date: April 24, 2020
- *
  */
 public class AddressBook {
 
