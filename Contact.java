@@ -5,7 +5,6 @@ import java.io.Serializable;
  * 
  * @author Karim R. Sammouri
  * Date: April 24, 2020
- *
  */
 public class Contact implements Serializable{
 
