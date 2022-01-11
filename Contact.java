@@ -4,6 +4,7 @@ import java.io.Serializable;
  * This class represents a contact and stores relevant properties.
  * 
  * @author Karim R. Sammouri
+ * Date: April 24, 2020
  *
  */
 public class Contact implements Serializable{
